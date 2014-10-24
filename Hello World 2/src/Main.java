@@ -9,7 +9,7 @@ class Main {
 		if (input.nextLine().equals("y"))
 			System.out.println("Hi Darko...");
 		else
-			System.out.println("Not Darko? BYE");
+			System.out.println("then piss off!!!");
 	}
 
 }
